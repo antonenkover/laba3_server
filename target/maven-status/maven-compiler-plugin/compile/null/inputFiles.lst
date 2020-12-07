@@ -1,0 +1,16 @@
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/db/ConnectionService.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/dao/EntityDao.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/models/Product.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/Main.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/formviews/FormView.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/dao/WarehouseDao.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/views/View.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/models/Warehouse.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/Controller.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/db/DBService.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/dao/EntityMapper.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/dao/AbstractDao.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/models/Department.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/dao/StatementMapper.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/dao/DepartmentDao.java
+/Users/veronikaantonenko/IdeaProjects/laba_sql_database/src/main/java/dao/ProductDao.java

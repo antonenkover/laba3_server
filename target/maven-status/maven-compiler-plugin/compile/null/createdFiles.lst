@@ -1,0 +1,16 @@
+dao/AbstractDao.class
+models/Product.class
+dao/EntityDao.class
+models/Department.class
+dao/EntityMapper.class
+models/Warehouse.class
+dao/ProductDao.class
+Main.class
+dao/WarehouseDao.class
+formviews/FormView.class
+db/DBService.class
+db/ConnectionService.class
+Controller.class
+views/View.class
+dao/StatementMapper.class
+dao/DepartmentDao.class
