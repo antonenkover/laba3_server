@@ -3,3 +3,5 @@
 
 https://hello.my.app
 
+swtt://hello.my.app
+
