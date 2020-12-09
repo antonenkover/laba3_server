@@ -1,4 +1,5 @@
 # laba3_server
 
 
-swtt://hello.my.app
+https://hello.my.app
+
